@@ -19,9 +19,9 @@
 ## 🔥 👀 My Competitive Programming Profiles
 
 <p align="center" padding="30px">
-  <a href="https://www.codechef.com/users/sasi_12345"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
- <a href="https://leetcode.com/190031430/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
- <a href="https://www.codechef.com/users/sriniwaspiyush"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+  <a href="https://codeforces.com/profile/sasivardhanb"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+ <a href="https://leetcode.com/190030201-sasi/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+ <a href="https://www.codechef.com/users/sasi_12345"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
