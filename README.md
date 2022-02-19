@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Piyush Murti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm BONTHU SASI VARDHAN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;DS%20|%20Algorithms%20|%20OOPS%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(5%20Stars);Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -10,7 +10,7 @@
 - :technologist: I love using Software as a solution for every Problem
 - :computer: I am a competitive programmer mainly at CodeChef
 - :student: I’m currently learning: Computer Science and Software Engineering.
-- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://docs.google.com/document/d/1c-wx4ozBqFB6t3NWpBcXIVksaBE9T95eyuopWViKfS8/edit?usp=sharing).
+- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1hK2pgYuVzeSjvuhud82rVk_VU-ZGNqi5/view?usp=sharing).
 - :nerd_face: Always learning new things
 
 <br>
@@ -19,7 +19,7 @@
 ## 🔥 👀 My Competitive Programming Profiles
 
 <p align="center" padding="30px">
-  <a href="https://codeforces.com/profile/murtipiyush1"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+  <a href="https://www.codechef.com/users/sasi_12345"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
  <a href="https://leetcode.com/190031430/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
  <a href="https://www.codechef.com/users/sriniwaspiyush"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </p>
