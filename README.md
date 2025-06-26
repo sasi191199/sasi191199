@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm BONTHU SASI VARDHAN </h1>
+<h1 align="center">Hi , I'm BONTHU SASIVARDHAN </h1>
 <p align="center">
   
 </p>
