@@ -10,7 +10,7 @@
 - :technologist: I love using Software as a solution for every Problem
 - :computer: I am a competitive programmer mainly at CodeChef
 - :student: I’m currently learning: Computer Science and Software Engineering.
-- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1hK2pgYuVzeSjvuhud82rVk_VU-ZGNqi5/view?usp=sharing).
+- :thinking: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1oZ4ZxQhijNmeop2o8UUwoq49mHeG_0HL/view?usp=sharing).
 - :nerd_face: Always learning new things
 
 <br>
